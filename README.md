@@ -1,4 +1,4 @@
-![Logo of the project](https://cienciadedatosysalud.org/wp-content/uploads/logo-Data-Science-VPM.png)
+![Logo of the project](https://www.dypede.gr/wp-content/uploads/EUCanScreenLogo_t-768x192.png)
 
 <small><i>This project follows the structure built using the [Common Data Model Builder](https://github.com/cienciadedatosysalud/cdmb), a tool that allows you to create common data models to facilitate interoperability and reproducibility of the analyses.</i></small>
 
