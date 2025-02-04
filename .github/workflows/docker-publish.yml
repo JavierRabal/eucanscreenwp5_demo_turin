@@ -23,6 +23,11 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: javierrabal/eucanscreenwp5
+          tags: |
+            type=semver,pattern={{version}}
+            type=semver,pattern={{major}}.{{minor}}
+            type=semver,pattern={{major}}
+            latest
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
@@ -30,5 +35,7 @@ jobs:
           context: .
           file: ./Dockerfile  
           push: true
-          tags: javierrabal/eucanscreenwp5:latest
+          tags: |
+            javierrabal/eucanscreenwp5:${{ steps.meta.outputs.version }}
+            javierrabal/eucanscreenwp5:latest
           labels: ${{ steps.meta.outputs.labels }}
