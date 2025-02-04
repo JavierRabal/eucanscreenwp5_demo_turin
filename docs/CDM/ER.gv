@@ -1,0 +1,21 @@
+graph ER {
+	node [shape=box]
+	screening_episode [fontsize="10pt"]
+	node [shape=ellipse]
+	screening_episode_pid [label=pid fontsize="8pt"]
+	screening_episode_pid -- screening_episode [len=1.5]
+	screening_episode_bi_date [label=bi_date fontsize="8pt"]
+	screening_episode_bi_date -- screening_episode [len=1.5]
+	screening_episode_primary_invited [label=primary_invited fontsize="8pt"]
+	screening_episode_primary_invited -- screening_episode [len=1.5]
+	screening_episode_primary_attended [label=primary_attended fontsize="8pt"]
+	screening_episode_primary_attended -- screening_episode [len=2.1]
+	screening_episode_primary_attended_date [label=primary_attended_date fontsize="8pt"]
+	screening_episode_primary_attended_date -- screening_episode [len=2.1]
+	screening_episode_country [label=country fontsize="8pt"]
+	screening_episode_country -- screening_episode [len=1.5]
+	node [shape=box]
+	node [color=lightgrey shape=diamond style=filled]
+	label="\neucc_cdm"
+	fontsize=15
+}

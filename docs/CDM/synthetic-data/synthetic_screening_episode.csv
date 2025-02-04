@@ -1,0 +1,1001 @@
+pid,bi_date,primary_invited,primary_attended,primary_attended_date,country
+7394266,1957-08-27,False,True,2022-12-28,Camboya
+1960426,1933-07-07,False,True,2022-08-02,Jamaica
+125686,1990-03-25,True,False,2022-05-13,Kiribati
+1520747,2022-12-29,True,False,2022-08-18,Maldivas
+9768157,1971-12-26,False,True,2022-09-20,Francia
+585963,1906-09-01,True,True,2022-07-03,"Marshall, (las) Islas"
+1408249,1974-03-21,True,True,2022-02-17,Catar
+1651247,1951-12-04,True,False,2022-12-26,Gibraltar
+5949798,2016-12-07,False,False,2022-09-04,Gibraltar
+3973008,1954-12-29,False,True,2022-02-05,Chequia
+292394,2021-08-31,False,True,2022-10-05,Mauritania
+516973,2010-11-05,False,False,2022-07-21,Territorio Británico del Océano Índico (el)
+265758,1904-10-10,True,True,2022-01-25,Bolivia (Estado Plurinacional de)
+5806409,1977-03-07,True,True,2022-05-16,Papúa Nueva Guinea
+8124298,1932-04-12,True,False,2022-01-17,Nueva Zelandia
+7777044,1925-10-21,True,False,2022-11-04,"Åland, Islas"
+2492333,1974-07-27,False,False,2022-03-08,Indonesia
+1531545,2011-11-08,False,False,2022-08-21,Lesoto
+3071751,1998-12-15,False,True,2022-09-27,Gibraltar
+1919531,1903-03-09,True,False,2022-06-28,"Rusia, (la) Federación de"
+245262,1979-08-29,True,False,2022-10-14,Tokelau
+8440343,1990-02-05,False,True,2022-07-28,San Cristóbal y Nieves
+8166335,1941-08-02,False,True,2022-06-08,Dinamarca
+4191419,2013-11-08,False,True,2022-07-24,Svalbard y Jan Mayen
+1083175,2020-04-01,True,False,2022-07-25,Ecuador
+9077953,1909-11-26,False,False,2022-10-23,El Salvador
+7816480,1914-04-24,False,True,2022-04-14,Eritrea
+1150401,1955-08-08,True,False,2022-11-01,Bermudas
+1491978,1903-11-23,True,False,2022-05-21,Guatemala
+8641020,1949-08-08,False,False,2022-03-13,Tayikistán
+9714053,1948-11-03,False,True,2022-01-27,Uganda
+771170,2001-02-07,False,False,2022-07-07,Bahamas (las)
+4522894,1992-08-17,False,False,2022-09-08,Islandia
+9335389,1990-04-29,False,False,2022-08-10,Dinamarca
+1058267,1981-06-16,False,False,2022-10-21,Polonia
+5073917,2001-02-25,False,False,2022-04-09,Antigua y Barbuda
+8070451,1941-07-13,True,True,2022-03-27,"Santa Helena, Ascensión y Tristán de Acuña"
+5959923,1907-07-28,True,False,2022-10-20,Dinamarca
+4470360,1951-06-09,False,True,2022-09-11,Libia
+4180078,1950-05-06,True,False,2022-02-28,"Palestina, Estado de"
+3355983,1981-06-15,True,False,2022-08-06,Niue
+7606588,1954-09-08,False,True,2022-02-08,Países Bajos (los)
+8894629,2019-04-08,True,False,2022-06-09,Brasil
+323792,1982-08-26,True,False,2022-01-23,Brasil
+8524535,1962-11-16,False,False,2022-11-05,Viet Nam
+1184275,1944-08-22,False,False,2022-08-16,Moldavia (la República de)
+96976,1962-03-26,True,False,2022-12-01,Armenia
+5595370,2016-11-16,True,True,2022-12-21,Polonia
+2412033,1970-07-03,True,False,2022-09-24,"Vírgenes de los Estados Unidos, Islas"
+7932719,1940-03-16,True,True,2022-11-06,Chequia
+6330839,2018-05-12,False,False,2022-03-18,República Centroafricana (la)
+2803681,1969-08-20,False,False,2022-06-02,Liberia
+908909,1959-12-20,False,True,2022-02-07,"Salomón, Islas"
+1278993,2005-11-10,False,True,2022-01-25,Tuvalu
+9857092,1933-01-07,False,True,2022-10-31,Somalia
+8331257,1944-03-19,True,True,2022-10-31,Camboya
+2751517,1957-07-21,False,True,2022-07-31,Zimbabue
+1263688,2019-07-02,False,True,2022-12-21,Namibia
+9350449,1917-10-20,False,True,2022-09-01,Hungría
+3608685,2018-01-28,False,True,2022-01-07,Liberia
+2420041,2006-11-26,False,True,2022-02-28,Burkina Faso
+455143,1933-09-23,True,False,2022-12-06,Camerún
+5808789,2005-03-14,True,False,2022-11-17,Malta
+1860407,2011-09-24,False,True,2022-09-01,Namibia
+8886609,2008-10-10,False,False,2022-06-15,Groenlandia
+2369408,1956-01-07,False,True,2022-06-12,Viet Nam
+5123639,1971-03-25,True,True,2022-04-05,Guinea
+7619233,1933-01-15,True,True,2022-03-04,Tailandia
+664203,1910-12-22,False,False,2022-01-02,Dominica
+6983529,1971-02-28,False,False,2022-10-31,"Lao, (la) República Democrática Popular"
+4643659,2002-11-16,False,True,2022-02-11,Emiratos Árabes Unidos (los)
+674523,1958-11-05,True,False,2022-05-31,Bermudas
+2975322,1939-09-04,True,True,2022-11-15,Puerto Rico
+4557884,1965-04-17,True,True,2022-09-04,Sudán del Sur
+2593262,1912-06-10,True,True,2022-04-09,Brasil
+5037741,1966-05-09,False,True,2022-07-31,Austria
+2592942,1930-05-27,True,True,2022-08-22,Nepal
+7793050,1925-09-04,True,True,2022-09-04,Tuvalu
+688919,1911-10-23,False,False,2022-10-18,Haití
+9447353,1999-09-16,False,True,2022-08-11,"Lao, (la) República Democrática Popular"
+6479084,1994-10-03,True,False,2022-07-05,Níger (el)
+5865185,1988-03-19,True,False,2022-07-28,Líbano
+8319095,2005-02-26,True,True,2022-08-05,Tokelau
+5732905,1998-11-28,False,True,2022-11-13,Alemania
+9778781,1986-07-12,False,False,2022-08-29,Anguila
+7853736,1924-03-14,False,True,2022-03-31,Guayana Francesa
+7984862,2002-09-07,False,False,2022-11-17,Sierra leona
+760499,2021-06-03,False,True,2022-03-07,Sierra leona
+7899386,2008-05-06,True,True,2022-10-29,Maldivas
+9981037,1993-12-09,True,False,2022-02-09,Zambia
+2851646,1980-01-05,False,True,2022-03-28,Malawi
+7375203,1942-11-25,True,False,2022-09-14,Burundi
+8710942,1934-04-23,False,True,2022-03-30,Nueva Zelandia
+7346273,1963-03-20,False,False,2022-10-15,Camerún
+4960669,1980-02-02,True,True,2022-04-30,Serbia
+4614422,1905-01-04,True,True,2022-12-05,Kuwait
+2078305,1957-05-07,True,True,2022-01-03,"Norfolk, Isla"
+3114218,1905-01-30,False,False,2022-01-13,Tuvalu
+6984770,1903-05-08,False,False,2022-07-19,Svalbard y Jan Mayen
+7315869,1913-09-07,True,False,2022-07-16,Grecia
+2004330,2010-02-13,True,False,2022-09-10,Kazajistán
+8888554,1922-02-09,True,True,2022-11-01,"Caimán, (las) Islas"
+1729613,1963-12-14,True,True,2022-02-02,Liechtenstein
+8140324,1952-10-11,False,False,2022-03-26,"Vírgenes de los Estados Unidos, Islas"
+6321985,1973-07-24,True,False,2022-01-31,Kenia
+4286147,2000-08-17,True,False,2022-01-10,"Marianas del Norte, (las) Islas"
+3211379,1919-08-20,False,False,2022-11-01,"Dominicana, (la) República"
+5793993,1960-08-06,False,True,2022-12-26,China
+1814585,1908-08-18,False,False,2022-08-31,Territorio Británico del Océano Índico (el)
+2636868,2019-08-08,True,False,2022-07-24,Sri Lanka
+9737734,1909-06-23,True,True,2022-10-27,Hong Kong
+4518613,1924-01-29,True,True,2022-08-24,"Bouvet, Isla"
+2597893,1956-02-10,False,False,2022-12-25,Curaçao
+5427255,1956-09-22,False,False,2022-09-22,Heard (Isla) e Islas McDonald
+7493890,1913-12-05,False,True,2022-09-03,Montserrat
+1187388,1982-04-04,False,False,2022-12-28,Samoa Americana
+1316878,1948-02-09,False,True,2022-02-28,Jordania
+6631078,2013-05-28,False,False,2022-05-08,Malta
+3592840,1934-08-09,False,False,2022-01-19,Pakistán
+800865,1909-01-07,False,True,2022-05-03,Turkmenistán
+4800523,2018-03-01,False,False,2022-09-23,Santo Tomé y Príncipe
+637443,1904-03-27,False,True,2022-10-29,Bosnia y Herzegovina
+3680780,1964-05-27,False,False,2022-04-30,Mauricio
+8501264,1937-11-18,True,True,2022-04-27,Angola
+1470821,2007-08-25,True,True,2022-10-11,Tayikistán
+5318143,1918-09-09,True,True,2022-09-24,Gambia (la)
+5127529,1931-10-21,False,True,2022-11-25,Libia
+7731514,1984-10-17,False,True,2022-01-04,"Vírgenes de los Estados Unidos, Islas"
+1111114,1965-04-16,True,False,2022-11-10,Belice
+9814330,1939-12-08,True,False,2022-03-10,México
+4318940,1929-10-13,False,False,2022-07-20,Brasil
+1224730,1954-11-18,False,False,2022-03-20,Etiopía
+7152198,1965-02-02,False,True,2022-12-14,Gibraltar
+3387265,2014-12-15,False,False,2022-02-03,San Cristóbal y Nieves
+1699408,1949-02-02,True,True,2022-09-15,San Cristóbal y Nieves
+6654626,1914-07-12,False,False,2022-03-27,Liechtenstein
+3264881,2012-03-29,True,True,2022-01-18,Nauru
+7710316,1999-10-03,True,False,2022-12-11,"Feroe, (las) Islas"
+8397295,1987-02-23,False,False,2022-06-02,Macao
+3964919,1907-06-28,True,False,2022-12-27,Chequia
+6060844,1971-03-09,False,False,2022-04-18,Uruguay
+3440677,1947-08-26,True,True,2022-11-02,"Vírgenes británicas, Islas"
+8640839,1930-03-06,True,False,2022-07-17,Somalia
+7066121,2010-06-27,False,True,2022-02-23,Ecuador
+2930810,1992-07-06,False,True,2022-03-15,Suecia
+9806480,1999-07-13,False,False,2022-01-02,Guatemala
+3410134,1923-05-08,True,False,2022-10-22,Camerún
+5062978,1916-08-07,True,False,2022-11-27,Perú
+1011847,2014-12-17,True,True,2022-02-18,Indonesia
+5913730,1985-01-25,True,True,2022-09-02,Honduras
+8964750,1901-09-20,True,False,2022-06-21,"Salomón, Islas"
+2567928,1937-02-08,False,True,2022-08-09,Paraguay
+8381684,1964-04-11,True,False,2022-07-23,Guinea
+9211206,1915-12-30,True,False,2022-01-27,Libia
+7926160,1969-12-05,True,True,2022-09-10,Suiza
+5599530,1936-05-15,False,False,2022-09-23,Egipto
+2327484,1938-10-21,True,True,2022-06-20,Belarús
+2196688,1955-04-19,True,False,2022-08-07,Gibraltar
+806522,1929-04-05,True,True,2022-06-24,Macao
+2769579,1993-07-29,True,False,2022-10-22,"Marianas del Norte, (las) Islas"
+2431497,1967-01-22,False,False,2022-03-20,Chequia
+9161444,1953-07-23,True,True,2022-02-14,Congo (la República Democrática del)
+1170207,1916-06-21,True,True,2022-05-10,Guernsey
+5457380,1939-02-11,False,True,2022-10-22,Países Bajos (los)
+2869301,1917-01-12,False,True,2022-07-20,Guinea
+28628,1999-01-17,True,True,2022-12-19,Territorio Británico del Océano Índico (el)
+1020468,1940-09-13,False,False,2022-12-22,Polonia
+1470027,1921-05-31,True,False,2022-12-01,Niue
+2487623,1925-09-27,True,True,2022-02-08,Bolivia (Estado Plurinacional de)
+3641221,1931-12-14,True,False,2022-12-16,Hong Kong
+669600,1944-05-19,False,False,2022-01-12,Curaçao
+7260715,1999-01-28,True,True,2022-06-22,Sudáfrica
+6567292,1978-05-29,False,False,2022-05-04,Antártida
+5442713,1934-12-26,False,True,2022-02-13,Curaçao
+3474880,2020-06-15,False,True,2022-06-03,"Cook, (las) Islas"
+6395492,1965-08-31,True,True,2022-03-14,Perú
+4698419,1909-12-02,True,False,2022-12-06,Antártida
+9017547,1948-08-24,True,True,2022-05-18,Arabia Saudita
+5109236,1948-11-22,False,True,2022-09-13,Trinidad y Tobago
+7080603,1927-09-14,False,False,2022-10-30,Madagascar
+5351151,2003-04-12,False,True,2022-07-01,Honduras
+9693024,1944-02-15,True,True,2022-09-09,Sudáfrica
+2540352,1931-06-12,False,True,2022-12-28,Puerto Rico
+8936211,1916-09-30,False,False,2022-06-26,Angola
+1558080,1916-10-28,False,True,2022-10-07,Honduras
+4367373,2018-10-02,True,True,2022-04-24,Kenia
+4664407,2005-09-15,False,False,2022-01-15,Tierras Australes Francesas (las)
+6882987,1956-03-17,False,False,2022-11-11,Niue
+6712008,1953-07-29,True,True,2022-01-11,Kazajistán
+9478169,1948-05-23,True,False,2022-10-21,"Norfolk, Isla"
+4642969,1948-03-13,False,True,2022-06-23,Isla de Man
+8821468,1908-08-02,False,True,2022-01-11,Reino Unido de Gran Bretaña e Irlanda del Norte (el)
+1908222,1937-11-02,False,False,2022-02-14,"Åland, Islas"
+6297302,1974-03-06,False,False,2022-08-22,Malí
+4600748,1906-09-20,False,True,2022-09-25,Kiribati
+3588408,1905-08-31,False,False,2022-03-10,Suriname
+4990314,1985-11-21,True,True,2022-06-03,"Rusia, (la) Federación de"
+9856774,1908-05-14,False,False,2022-07-15,Tuvalu
+6683010,1988-04-15,False,False,2022-11-04,Tonga
+880786,1928-04-26,False,False,2022-05-20,Wallis y Futuna
+5864070,1922-11-30,True,True,2022-09-24,Bahamas (las)
+7391287,1985-08-31,False,True,2022-03-29,"Bonaire, San Eustaquio y Saba"
+3900653,1909-06-01,False,False,2022-11-03,Polonia
+8229247,1992-05-30,True,True,2022-03-05,Chile
+2773621,1992-09-07,False,True,2022-01-25,Turquía
+6384429,1971-10-05,True,True,2022-07-02,Australia
+5165992,1945-02-11,False,False,2022-01-07,Bermudas
+41076,1917-03-28,False,True,2022-03-23,Mozambique
+1230211,1954-11-27,True,True,2022-08-30,Congo (el)
+8056534,1912-02-09,True,False,2022-08-02,Eslovaquia
+6626844,1994-04-16,False,True,2022-06-21,Cabo Verde
+5006674,1954-04-10,True,True,2022-11-03,República Árabe Siria
+7195921,1958-09-06,False,False,2022-09-29,Polonia
+8046149,1954-12-11,True,True,2022-06-22,Baréin
+3113501,1963-08-23,True,False,2022-01-09,Togo
+6719474,1917-01-27,True,True,2022-05-28,Côte d'Ivoire
+8018871,1964-05-02,True,True,2022-10-07,Micronesia (Estados Federados de)
+2637218,2019-10-17,False,False,2022-04-15,Malí
+4718766,1998-08-17,False,False,2022-07-26,Costa Rica
+9923768,1925-05-20,False,True,2022-01-14,China
+6199608,2017-02-19,True,True,2022-08-10,Kazajistán
+5813001,1961-07-30,True,False,2022-07-20,Burkina Faso
+3457247,1929-01-23,True,True,2022-08-23,Azerbaiyán
+2835041,2008-11-14,True,True,2022-02-07,Filipinas (las)
+8705098,1915-09-15,False,False,2022-09-22,Bosnia y Herzegovina
+9529867,1943-10-02,False,True,2022-12-05,Timor-Leste
+7674191,1900-03-10,False,False,2022-10-10,Suiza
+7959565,2005-04-30,True,True,2022-04-09,Territorio Británico del Océano Índico (el)
+474701,1905-08-06,False,False,2022-01-16,Italia
+7849929,1918-04-16,True,True,2022-03-26,Eritrea
+1739978,2001-08-12,False,False,2022-07-25,Bélgica
+451500,2013-05-02,False,True,2022-09-07,Chipre
+6151093,1993-05-23,False,True,2022-09-17,Pakistán
+7982854,1926-05-18,False,True,2022-08-16,Samoa
+1093752,1993-02-13,True,False,2022-07-29,Emiratos Árabes Unidos (los)
+2349106,1938-05-26,True,False,2022-07-16,Egipto
+9865296,1941-08-10,False,False,2022-09-17,Nepal
+5566335,1978-05-02,False,True,2022-07-18,Tierras Australes Francesas (las)
+5853346,1948-03-22,False,True,2022-11-30,Kenia
+4859564,1908-01-13,False,False,2022-12-17,Portugal
+5010003,1933-10-09,False,True,2022-04-09,Sahara Occidental
+9782259,1976-12-23,False,True,2022-08-02,Chile
+5546325,2010-03-02,True,True,2022-09-14,Níger (el)
+9443093,1947-11-07,True,False,2022-08-11,"Vírgenes británicas, Islas"
+4928832,1916-02-22,False,True,2022-05-02,Sint Maarten (parte neerlandesa)
+9437689,1903-11-29,False,False,2022-09-26,"Bouvet, Isla"
+3264281,2002-07-30,False,True,2022-03-31,Nauru
+8542311,1965-07-13,False,False,2022-03-22,Papúa Nueva Guinea
+4681424,1904-07-12,False,False,2022-09-04,Corea (la República Popular Democrática de)
+1216088,1918-09-23,True,False,2022-10-09,Andorra
+8959598,1952-08-02,True,False,2022-12-06,Taiwán (Provincia de China)
+3422569,1979-04-25,False,False,2022-08-26,Turkmenistán
+5698117,1964-04-06,False,True,2022-08-28,Egipto
+8560936,2010-09-15,True,False,2022-11-19,Liberia
+5607530,1971-03-16,False,True,2022-10-02,Argentina
+5386512,2003-05-18,False,True,2022-01-14,Pakistán
+7684475,2002-01-07,False,False,2022-01-18,Belarús
+4487969,1972-07-17,False,True,2022-04-05,Lituania
+1425330,1953-08-26,False,True,2022-01-04,Madagascar
+8846139,1937-01-18,False,False,2022-06-09,Kazajistán
+9885634,1938-06-24,False,False,2022-04-03,Gabón
+9773282,1975-04-24,True,True,2022-11-24,Sudán (el)
+9198025,1990-02-25,True,False,2022-02-27,Nigeria
+2006832,1989-02-15,False,True,2022-12-14,Guinea Ecuatorial
+4114662,1921-12-05,True,True,2022-09-12,Dominica
+4314271,1968-10-31,False,True,2022-06-23,Reunión
+6239005,1944-01-14,True,True,2022-08-19,Panamá
+2299876,1955-01-22,True,False,2022-05-21,Canadá
+476121,2016-11-04,False,True,2022-10-08,Zimbabue
+6619310,2022-07-26,False,True,2022-05-29,Barbados
+626695,1964-06-04,True,False,2022-12-25,Irak
+739455,2013-03-06,False,True,2022-01-29,Mongolia
+3501566,1955-01-14,True,False,2022-09-28,Santo Tomé y Príncipe
+2597267,1974-09-12,True,True,2022-07-23,Rumania
+5251413,1994-01-08,True,True,2022-04-28,Sierra leona
+8651213,1930-06-22,False,False,2022-12-15,Jersey
+5963089,1914-06-21,False,True,2022-09-29,Argelia
+7290629,1964-06-20,False,True,2022-07-28,Jamaica
+8645034,1926-05-04,False,True,2022-02-01,Haití
+1157574,2022-03-06,False,False,2022-12-15,Gibraltar
+5119760,1973-11-11,False,False,2022-12-23,Libia
+4385982,1981-05-08,False,True,2022-06-22,Ecuador
+8146504,1932-06-18,True,False,2022-10-11,Uruguay
+9727669,1913-10-20,True,True,2022-02-12,Honduras
+3684261,2000-11-19,False,False,2022-07-11,Lesoto
+5834229,2015-01-10,False,False,2022-08-27,Montenegro
+8462029,1945-10-03,False,True,2022-02-04,Trinidad y Tobago
+1390369,1912-02-16,False,True,2022-11-24,Marruecos
+304630,2009-08-12,False,True,2022-10-10,Territorio Británico del Océano Índico (el)
+9815501,1945-10-02,False,True,2022-07-16,Suriname
+5554791,1937-05-03,False,True,2022-12-05,Lesoto
+9465366,1990-10-05,False,True,2022-05-14,Mayotte
+3852151,1954-09-23,False,True,2022-04-07,Tierras Australes Francesas (las)
+2726872,1914-01-17,False,False,2022-05-04,Santa Lucía
+8019196,1935-05-08,False,False,2022-02-05,Suazilandia
+8378810,1978-09-22,True,False,2022-04-16,Suecia
+2347781,1976-03-12,True,False,2022-11-09,Países Bajos (los)
+8930743,1961-06-15,False,False,2022-02-11,México
+1144780,1993-05-24,True,True,2022-06-19,Italia
+2441620,2015-01-18,False,True,2022-03-31,Nepal
+8915356,2015-10-05,True,False,2022-03-30,Filipinas (las)
+4081657,2005-05-30,True,False,2022-08-11,Santa Sede (la)
+2755659,1906-08-12,True,False,2022-03-04,Arabia Saudita
+8496512,1986-02-16,True,True,2022-02-15,Dinamarca
+8472554,2003-10-22,False,True,2022-01-30,Emiratos Árabes Unidos (los)
+6596027,2016-08-04,True,False,2022-10-03,Bolivia (Estado Plurinacional de)
+5477814,1905-01-16,False,True,2022-08-05,Zambia
+2162952,2004-01-25,False,False,2022-07-12,"Rusia, (la) Federación de"
+9424138,1989-03-06,True,True,2022-03-29,Angola
+9498769,1978-04-09,True,True,2022-12-09,Niue
+8977173,2005-03-30,False,False,2022-08-24,Chequia
+7488305,1927-10-17,True,False,2022-08-19,Somalia
+685960,2009-02-28,False,False,2022-07-20,"Santa Helena, Ascensión y Tristán de Acuña"
+6236153,1986-07-14,True,True,2022-04-11,Uruguay
+1152387,1997-02-08,True,False,2022-03-14,Nauru
+6192557,1961-05-25,True,True,2022-10-03,Macedonia del Norte
+6851717,2008-07-06,True,False,2022-02-05,Zambia
+748704,1972-07-24,False,False,2022-12-10,Seychelles
+1189539,1914-11-13,True,False,2022-02-13,Marruecos
+5270695,1925-12-25,False,False,2022-06-19,Isla de Man
+3823913,1942-05-03,False,False,2022-09-16,Liechtenstein
+3325082,1952-09-20,False,True,2022-09-01,Rumania
+5808042,1903-12-03,True,False,2022-07-18,India
+8745290,1966-08-22,True,False,2022-05-22,Sudán (el)
+6371764,1992-03-10,True,False,2022-03-02,Níger (el)
+9894921,1995-12-05,False,True,2022-07-08,San Marino
+8267575,1945-06-10,False,True,2022-08-18,Mozambique
+879924,1948-12-28,False,True,2022-05-19,República Árabe Siria
+500615,2004-07-28,True,True,2022-02-19,Irak
+7517461,1939-04-01,True,True,2022-11-11,Gabón
+1345162,1922-05-21,True,True,2022-06-28,Irak
+4918476,1951-09-22,True,True,2022-11-11,Indonesia
+7153753,1901-11-03,False,True,2022-10-18,San Vicente y las Granadinas
+5709368,1958-08-25,True,True,2022-01-10,Turquía
+2481249,1963-08-14,False,True,2022-08-04,Isla de Man
+8156278,1970-10-16,False,True,2022-12-30,Niue
+4060566,1942-02-11,False,True,2022-12-05,Tayikistán
+499984,2016-12-14,False,True,2022-03-30,Irlanda
+5982901,1980-02-20,True,True,2022-08-20,Países Bajos (los)
+9922623,1966-09-04,True,True,2022-06-01,Sudán del Sur
+6231251,1944-07-26,False,False,2022-05-02,Islas Ultramarinas Menores de los Estados Unidos (las)
+6962561,1989-01-27,False,False,2022-02-08,Reunión
+2920064,1922-07-29,False,False,2022-10-23,"Marianas del Norte, (las) Islas"
+1252660,1994-12-21,True,True,2022-07-03,Myanmar
+298779,2015-09-28,True,True,2022-08-21,Kiribati
+3561311,1984-10-24,True,True,2022-08-21,Irak
+3295875,1919-10-19,True,True,2022-05-04,Namibia
+9186817,1986-01-03,True,False,2022-04-24,"Åland, Islas"
+2373223,2018-03-18,False,True,2022-09-28,Burundi
+8419739,2008-09-01,False,False,2022-03-04,Senegal
+2222988,2015-04-08,True,True,2022-08-18,Eritrea
+4273637,2001-04-22,True,True,2022-03-03,Belarús
+830628,1942-04-10,False,True,2022-09-11,Taiwán (Provincia de China)
+7852537,1972-10-27,True,True,2022-02-14,"Cocos / Keeling, (las) Islas"
+6065805,1965-03-31,False,True,2022-07-14,Etiopía
+6237639,1912-11-27,False,True,2022-07-28,Colombia
+4838666,2012-07-24,False,False,2022-07-02,"Cocos / Keeling, (las) Islas"
+6654753,1960-08-04,False,False,2022-03-10,Sudáfrica
+6848475,1978-03-09,True,True,2022-04-20,Tuvalu
+6171824,2000-12-24,False,False,2022-11-25,Sahara Occidental
+3928722,1952-03-22,False,True,2022-11-24,"Vírgenes británicas, Islas"
+4786040,1997-01-11,True,False,2022-06-18,Bélgica
+146718,1907-07-02,True,True,2022-02-03,México
+5247063,1950-08-10,True,False,2022-11-22,"Caimán, (las) Islas"
+9781734,2020-10-06,False,False,2022-10-04,"Cocos / Keeling, (las) Islas"
+4462722,2019-12-08,True,True,2022-09-18,Congo (la República Democrática del)
+2021210,2002-12-27,True,False,2022-03-21,Namibia
+9130555,1950-12-06,True,False,2022-10-25,Yemen
+594020,1986-02-11,True,False,2022-08-20,Kiribati
+3666822,2016-02-18,False,True,2022-05-28,Macedonia del Norte
+8958843,1981-02-27,False,True,2022-06-05,Brasil
+9581278,1974-02-27,True,True,2022-12-15,"Bouvet, Isla"
+9958372,1940-06-22,True,True,2022-06-26,San Pedro y Miquelón
+6197614,1965-02-03,False,True,2022-11-19,Bosnia y Herzegovina
+9012659,1913-09-25,False,True,2022-07-22,Sahara Occidental
+3085314,1922-10-03,True,False,2022-10-06,Macedonia del Norte
+5406236,1998-11-08,False,False,2022-05-06,Eslovenia
+4914456,1935-04-06,False,True,2022-09-21,Guernsey
+6087699,1995-07-24,False,False,2022-08-28,Singapur
+4578479,2004-02-13,False,False,2022-04-18,Tailandia
+2958065,1986-01-16,False,True,2022-11-18,Ghana
+7664971,1998-07-15,True,True,2022-11-07,Heard (Isla) e Islas McDonald
+2838766,1988-10-21,False,True,2022-04-14,Santo Tomé y Príncipe
+54189,2005-09-23,False,True,2022-01-25,Alemania
+9119394,1909-06-18,False,False,2022-03-11,San Vicente y las Granadinas
+6855337,1933-09-09,True,True,2022-04-29,Trinidad y Tobago
+4010222,2016-09-16,False,False,2022-06-15,Singapur
+3216552,1920-09-15,False,True,2022-02-24,Saint Martin (parte francesa)
+7444629,1961-06-29,False,False,2022-12-28,Palaos
+4586945,2006-05-09,False,False,2022-08-05,Togo
+2923373,1978-09-23,False,True,2022-08-31,Kazajistán
+5936828,1921-03-03,False,False,2022-09-22,Liberia
+9837456,1906-02-23,True,False,2022-10-07,Dominica
+6868787,2021-07-01,True,True,2022-08-04,Jersey
+8893953,1979-06-29,False,True,2022-08-04,Seychelles
+8156426,1946-11-13,True,True,2022-01-16,Bangladés
+9851704,1980-03-22,False,True,2022-11-01,Maldivas
+8071630,1907-08-17,True,True,2022-09-24,Curaçao
+8056339,1977-12-11,False,True,2022-09-24,Gabón
+8629097,2003-10-25,True,True,2022-09-12,Eslovenia
+7470514,1939-04-08,False,True,2022-10-07,Irak
+6258397,1936-06-03,True,True,2022-12-01,Países Bajos (los)
+1721070,1943-06-08,True,False,2022-06-06,Brasil
+8876418,1914-04-26,True,False,2022-07-01,Liberia
+6736625,1972-03-24,True,True,2022-01-21,Seychelles
+9731868,1976-04-30,False,True,2022-01-31,San Marino
+2131420,1973-03-18,False,True,2022-11-27,Mauritania
+1779975,1978-12-14,False,False,2022-10-10,Filipinas (las)
+7874538,1952-01-01,True,True,2022-01-24,Samoa
+8189049,1959-11-12,False,True,2022-08-10,Santo Tomé y Príncipe
+1623385,1905-03-02,False,True,2022-02-07,Barbados
+9166317,1956-05-26,False,True,2022-06-15,Catar
+9356974,1972-03-21,True,True,2022-01-27,Jordania
+2211885,1904-03-13,False,True,2022-10-11,Macedonia del Norte
+4293303,1999-08-22,False,False,2022-12-12,Sudán del Sur
+4009296,1908-09-19,True,False,2022-10-31,"Cocos / Keeling, (las) Islas"
+1188873,1954-03-19,False,False,2022-07-04,Japón
+5625533,2018-03-02,False,False,2022-05-03,Tokelau
+6579733,1908-12-27,True,False,2022-04-27,Croacia
+4925600,1931-07-18,True,False,2022-02-16,Chile
+8760917,1980-03-09,True,False,2022-11-26,Croacia
+5955527,2010-09-21,True,False,2022-05-12,Georgia
+6802836,2007-12-10,False,True,2022-06-27,Guyana
+9194729,1953-09-13,True,False,2022-12-13,"Salomón, Islas"
+3159933,1903-09-16,True,True,2022-07-09,Antártida
+7934355,1966-05-08,True,True,2022-11-09,Togo
+7812884,1994-11-18,False,False,2022-03-10,Estados Unidos de América (los)
+5361042,1924-07-28,False,False,2022-01-08,Polinesia Francesa
+7408498,2005-02-01,False,False,2022-01-08,Côte d'Ivoire
+8805865,1936-04-14,True,False,2022-02-24,Chad
+1810265,2002-05-04,False,True,2022-04-22,Omán
+9045764,1981-08-15,False,True,2022-07-13,Barbados
+7771209,1929-09-18,False,False,2022-08-06,Bhután
+1440698,1976-10-16,True,False,2022-06-27,Curaçao
+1276017,1967-04-29,True,False,2022-05-20,Mauricio
+3312830,1919-04-29,False,True,2022-04-06,Sudán del Sur
+2949554,1984-07-16,True,False,2022-10-29,Armenia
+5635346,1906-01-09,True,True,2022-05-28,Kiribati
+2896638,1998-01-22,True,False,2022-06-07,"Santa Helena, Ascensión y Tristán de Acuña"
+6337683,1912-01-26,True,True,2022-04-17,Bahamas (las)
+4554897,1970-05-22,False,False,2022-10-26,Moldavia (la República de)
+3348647,2008-05-15,True,True,2022-02-07,Suazilandia
+4438809,1912-04-20,True,False,2022-03-18,Emiratos Árabes Unidos (los)
+492947,1905-09-12,False,False,2022-11-06,Uzbekistán
+2653396,1927-11-07,True,True,2022-09-15,Territorio Británico del Océano Índico (el)
+5302216,1903-06-03,True,True,2022-03-30,Dinamarca
+1673533,1950-03-20,False,True,2022-12-05,Bosnia y Herzegovina
+759060,1983-04-22,False,True,2022-10-28,Guinea Ecuatorial
+934321,1940-07-04,True,True,2022-06-29,Mozambique
+4367987,1942-06-18,True,False,2022-05-26,Burundi
+7113431,2001-01-27,False,True,2022-12-07,Antártida
+5422109,1918-08-31,False,True,2022-10-10,Paraguay
+5703510,1956-12-22,False,True,2022-03-11,Belarús
+5166133,1942-11-27,False,False,2022-03-05,Nueva Caledonia
+9938194,1943-05-01,False,False,2022-06-21,El Salvador
+7276916,1986-12-22,True,True,2022-01-13,Cuba
+9676129,1996-02-14,False,True,2022-01-27,Baréin
+2789438,1915-01-10,False,False,2022-01-26,Granada
+6304015,1956-11-17,False,True,2022-07-08,Benín
+6619628,1932-10-16,False,True,2022-01-27,Malawi
+148508,1902-02-06,True,False,2022-11-28,Uruguay
+4850187,1957-01-24,False,False,2022-03-26,Costa Rica
+9971203,1963-04-30,False,True,2022-05-10,"Malvinas [Falkland], (las) Islas"
+4759732,1954-02-07,True,False,2022-02-19,China
+5312057,2018-03-06,True,True,2022-05-30,Santa Sede (la)
+4174867,2020-05-06,True,True,2022-08-25,Camerún
+2618655,1968-03-25,False,False,2022-01-13,Montenegro
+3259778,1991-02-09,False,False,2022-03-14,San Pedro y Miquelón
+7599211,1928-12-09,False,True,2022-02-18,Líbano
+7466358,2020-02-09,True,True,2022-06-27,Colombia
+7004568,1933-12-09,False,True,2022-06-09,Tailandia
+8419518,1938-03-23,True,False,2022-01-29,Polinesia Francesa
+5643799,1961-08-02,True,True,2022-04-24,Barbados
+8776238,1971-11-04,True,False,2022-05-07,Samoa Americana
+4509016,1962-11-01,False,True,2022-10-05,Eslovaquia
+7299239,1919-04-10,True,False,2022-01-27,Bangladés
+6572933,1907-05-05,False,True,2022-08-02,Venezuela (República Bolivariana de)
+4356377,1911-01-14,True,False,2022-02-02,Venezuela (República Bolivariana de)
+9637595,2005-09-21,False,False,2022-01-26,Macedonia del Norte
+8280385,2000-03-17,True,False,2022-07-28,Curaçao
+5287243,1905-02-22,True,False,2022-09-13,Tonga
+4155566,1947-01-09,False,False,2022-09-26,Benín
+4801692,1995-10-31,False,False,2022-08-24,Puerto Rico
+2647510,1942-09-08,False,False,2022-01-10,Indonesia
+2749993,1961-06-26,False,True,2022-09-27,Burundi
+6892855,1987-12-31,True,False,2022-09-04,"Lao, (la) República Democrática Popular"
+2644586,1931-07-30,True,False,2022-05-30,Bhután
+577840,1925-04-09,True,False,2022-08-31,Madagascar
+3901675,1995-07-31,False,True,2022-01-08,Japón
+9668810,1996-10-16,True,True,2022-09-10,Haití
+9146369,1966-05-25,True,False,2022-11-24,Mayotte
+5936578,2002-02-14,True,True,2022-07-31,Chequia
+9124289,1961-04-20,True,False,2022-05-30,Anguila
+3460623,1966-07-04,True,True,2022-10-09,Argentina
+7215840,1962-02-05,False,True,2022-09-22,"Bonaire, San Eustaquio y Saba"
+7453598,1914-11-05,True,True,2022-06-01,Austria
+406106,1983-05-20,True,False,2022-09-26,China
+9225432,1951-10-20,False,True,2022-09-07,Estados Unidos de América (los)
+6784169,2019-09-28,False,True,2022-08-09,Montenegro
+1160728,2018-03-25,True,True,2022-06-08,"Rusia, (la) Federación de"
+1058367,1909-07-31,False,False,2022-07-31,"Turcas y Caicos, (las) Islas"
+1188077,1982-02-17,True,True,2022-11-07,Bangladés
+4100344,1908-09-13,True,True,2022-03-26,Saint Martin (parte francesa)
+6394306,1995-05-06,False,False,2022-02-24,Hungría
+8144523,1967-07-27,True,True,2022-08-27,Grecia
+6370383,1983-02-15,False,False,2022-02-16,Palaos
+3984445,1942-06-29,False,True,2022-10-24,Noruega
+5078872,1992-05-30,False,True,2022-12-24,Burundi
+8609301,2012-07-28,True,False,2022-09-27,Indonesia
+5490760,1924-12-08,True,True,2022-12-08,Myanmar
+8713286,1935-04-29,False,True,2022-04-20,Corea (la República de)
+8696847,2004-11-14,False,False,2022-01-17,Lituania
+7582473,1931-10-04,True,True,2022-08-31,Santa Sede (la)
+1077824,1919-05-01,True,False,2022-08-03,Bangladés
+5079109,1916-10-23,True,False,2022-11-03,Australia
+438168,1962-07-06,False,False,2022-04-04,Guayana Francesa
+8406477,1907-11-13,True,True,2022-04-22,España
+3029751,1990-04-24,False,True,2022-06-21,Corea (la República Popular Democrática de)
+2395844,1961-02-14,False,False,2022-12-13,Austria
+2464022,1953-04-15,True,False,2022-01-26,"Lao, (la) República Democrática Popular"
+6298971,1930-05-20,True,True,2022-07-05,Micronesia (Estados Federados de)
+7185125,1920-02-07,False,False,2022-11-27,Honduras
+2970639,1930-12-01,True,False,2022-12-24,Guadeloupe
+8850594,1950-11-27,False,False,2022-07-04,Santa Lucía
+2297605,1963-11-06,True,True,2022-08-16,Chile
+5056332,1943-06-27,True,False,2022-03-17,Ghana
+1573410,1962-06-29,False,False,2022-02-14,República Árabe Siria
+8195568,1932-06-16,False,True,2022-04-09,Bahamas (las)
+9070584,1965-06-23,True,False,2022-10-25,Taiwán (Provincia de China)
+5634722,1944-06-04,True,True,2022-09-24,Vanuatu
+2240690,1906-01-19,False,False,2022-12-29,Sint Maarten (parte neerlandesa)
+4479966,1998-05-07,True,True,2022-12-15,"Vírgenes de los Estados Unidos, Islas"
+7230284,2004-11-14,False,True,2022-07-27,Mauritania
+7918872,1965-07-10,False,False,2022-10-11,Taiwán (Provincia de China)
+4677044,1911-04-05,False,False,2022-07-07,Eslovenia
+5292726,1903-06-02,True,False,2022-12-30,"Cook, (las) Islas"
+2810324,2021-02-20,False,True,2022-05-15,Bélgica
+1106114,1997-04-10,False,True,2022-10-28,Venezuela (República Bolivariana de)
+7369318,1982-12-05,False,False,2022-01-14,Zambia
+3863542,1924-05-28,True,True,2022-05-17,Uzbekistán
+7421843,1946-09-17,False,False,2022-03-14,Tokelau
+4190119,1917-04-23,False,True,2022-10-13,Micronesia (Estados Federados de)
+1120990,2002-06-02,True,True,2022-02-05,Pitcairn
+4473642,1955-01-24,True,False,2022-02-14,Macedonia del Norte
+2620118,2021-03-31,True,True,2022-12-21,"Norfolk, Isla"
+9418541,1961-02-28,True,True,2022-12-27,Senegal
+4600093,1951-09-10,False,True,2022-08-17,"Feroe, (las) Islas"
+2430535,1934-03-25,False,True,2022-01-13,Hungría
+6611333,1993-10-07,True,True,2022-08-28,Suiza
+3655215,1976-08-30,True,True,2022-08-25,Kirguistán
+3373633,1997-09-05,False,True,2022-02-01,Antártida
+9402582,1914-09-07,False,False,2022-06-23,Tonga
+8764590,1917-02-10,False,False,2022-11-21,Saint Barthélemy
+2452436,1961-11-15,True,True,2022-05-31,Noruega
+3557751,1964-12-06,True,True,2022-07-28,Tierras Australes Francesas (las)
+5748140,1947-12-18,False,True,2022-11-09,Malí
+6931809,1941-04-25,True,True,2022-07-11,Isla de Man
+31042,1924-01-20,False,False,2022-01-14,Lesoto
+8697915,1904-04-07,False,False,2022-06-29,Eritrea
+5809673,2001-02-13,True,True,2022-07-24,Nueva Caledonia
+3209620,1978-12-19,False,False,2022-01-22,Martinique
+3752180,1911-07-08,True,True,2022-06-28,Papúa Nueva Guinea
+9283846,2007-12-07,False,False,2022-06-18,Ghana
+278280,1953-10-20,False,False,2022-10-25,Argentina
+296222,1951-08-01,True,True,2022-08-02,Guatemala
+6092998,1932-09-30,True,True,2022-09-24,"Navidad, Isla de"
+7386467,1971-05-06,False,True,2022-03-26,Antártida
+3966239,1921-11-22,False,True,2022-08-12,Mauritania
+185733,1935-10-13,True,False,2022-12-02,Tuvalu
+6951730,2004-06-09,True,True,2022-01-02,Somalia
+7085851,1964-09-30,True,True,2022-03-24,México
+8334766,2012-01-07,True,True,2022-01-06,Polinesia Francesa
+7075294,1995-10-31,False,False,2022-05-20,Reunión
+5564171,1975-04-18,False,True,2022-04-08,Montserrat
+9779447,1912-09-14,False,False,2022-12-01,Zimbabue
+8699597,1970-10-25,True,False,2022-07-21,Corea (la República Popular Democrática de)
+4182758,1956-11-10,False,False,2022-12-03,Wallis y Futuna
+9845838,1940-01-21,False,True,2022-07-12,Bosnia y Herzegovina
+9666728,1937-07-06,True,True,2022-06-02,Chad
+9456034,1995-12-25,False,False,2022-09-19,Nepal
+8134084,1996-10-13,True,False,2022-06-24,Estados Unidos de América (los)
+5125048,1936-01-12,True,False,2022-10-12,Australia
+7866138,1996-01-27,False,False,2022-03-04,Macao
+9912052,1918-01-10,True,False,2022-07-24,Irán (República Islámica de)
+286316,1922-04-26,False,True,2022-11-28,Serbia
+338727,1904-11-14,False,True,2022-12-20,Vanuatu
+4900327,1978-10-02,False,True,2022-11-10,Guyana
+9508953,2001-01-15,True,True,2022-12-11,"Malvinas [Falkland], (las) Islas"
+2070566,1904-05-18,False,False,2022-07-22,Santo Tomé y Príncipe
+7588614,2014-03-13,True,True,2022-06-15,Cuba
+9596250,1942-04-21,True,False,2022-10-31,Serbia
+4108393,1922-11-21,False,False,2022-08-07,"Feroe, (las) Islas"
+6630765,1943-06-02,True,False,2022-01-02,Argentina
+7032363,1999-08-23,False,False,2022-11-13,Vanuatu
+3512813,1912-04-13,False,True,2022-06-23,Nauru
+706346,2004-03-05,True,False,2022-09-15,Sierra leona
+7236243,1969-06-21,False,True,2022-12-30,"Norfolk, Isla"
+6570521,2018-03-25,False,True,2022-09-12,Bélgica
+1871046,1992-04-01,True,True,2022-09-01,Benín
+6922589,2006-06-09,True,True,2022-06-19,Togo
+2986151,1955-03-03,True,False,2022-09-13,Eslovaquia
+2920988,1936-06-20,True,False,2022-09-22,Papúa Nueva Guinea
+1213924,1971-03-05,True,False,2022-02-13,"Lao, (la) República Democrática Popular"
+6181826,1974-07-13,True,True,2022-07-13,Bahamas (las)
+2861254,1972-01-01,True,True,2022-06-14,China
+3851498,1926-04-08,False,False,2022-02-19,Ruanda
+1061483,1974-12-23,False,True,2022-02-20,"Dominicana, (la) República"
+8600788,1901-12-18,False,True,2022-12-19,Guernsey
+6374161,1916-06-07,True,True,2022-09-26,Turkmenistán
+554177,1961-07-25,False,False,2022-08-17,Dinamarca
+2130886,1953-04-21,True,False,2022-11-23,Moldavia (la República de)
+4500225,1900-01-10,False,False,2022-05-07,Hong Kong
+8418779,1972-12-12,True,True,2022-03-08,Guam
+482652,2016-05-20,False,True,2022-07-03,San Vicente y las Granadinas
+5789548,1925-07-28,False,True,2022-01-18,Venezuela (República Bolivariana de)
+8529778,1980-04-13,False,True,2022-04-04,Venezuela (República Bolivariana de)
+1005665,1941-03-03,False,False,2022-07-16,Zimbabue
+4608189,1978-10-24,False,True,2022-09-01,San Vicente y las Granadinas
+8685950,2005-06-04,True,False,2022-03-28,Sri Lanka
+296699,2005-12-20,False,True,2022-10-17,Letonia
+758058,1978-06-30,False,False,2022-06-27,Mauritania
+6904838,1950-11-23,False,False,2022-02-09,Egipto
+8073680,1956-09-02,False,True,2022-11-17,Armenia
+510377,1994-07-20,True,False,2022-12-09,"Salomón, Islas"
+4837608,1907-11-23,True,False,2022-10-25,Irak
+3063307,1978-10-19,False,True,2022-04-12,"Bonaire, San Eustaquio y Saba"
+3870499,1977-09-14,False,True,2022-04-02,Belice
+8220445,1913-11-26,False,False,2022-05-20,Irán (República Islámica de)
+9665302,1987-04-01,False,False,2022-08-07,Maldivas
+1036572,1932-04-18,False,True,2022-10-21,Tuvalu
+4942620,2011-01-21,False,False,2022-01-27,"Norfolk, Isla"
+4083487,2002-09-13,True,True,2022-05-31,Tuvalu
+7476568,1956-08-18,False,True,2022-11-10,Sint Maarten (parte neerlandesa)
+7700278,1988-08-09,False,True,2022-12-15,Noruega
+2937120,1965-12-10,True,False,2022-07-19,Noruega
+4418249,1980-04-20,False,False,2022-08-31,Nueva Zelandia
+2705030,1979-12-30,True,False,2022-01-05,Níger (el)
+7003335,1983-12-20,False,False,2022-05-18,Mónaco
+5229772,2006-09-07,False,False,2022-09-02,Mayotte
+8761686,2017-01-25,False,False,2022-05-13,"Caimán, (las) Islas"
+159976,2022-09-21,True,True,2022-02-28,"Vírgenes británicas, Islas"
+4901173,1961-10-17,True,False,2022-01-11,Saint Martin (parte francesa)
+5470579,1903-02-23,True,True,2022-04-20,Guinea
+9978267,1945-09-14,False,True,2022-02-02,México
+3440968,1905-05-27,True,False,2022-03-30,Eslovenia
+3112874,1957-01-15,True,True,2022-10-19,Azerbaiyán
+545356,1962-05-23,False,True,2022-12-11,Congo (la República Democrática del)
+5156521,1901-07-19,False,True,2022-03-17,Paraguay
+8383637,1905-05-29,False,True,2022-05-19,Grecia
+302818,1993-04-13,False,True,2022-09-20,Santa Sede (la)
+7126727,1945-09-30,True,False,2022-07-16,Libia
+2725178,1925-10-03,False,True,2022-09-18,Puerto Rico
+7293922,2015-07-18,False,False,2022-09-02,Ucrania
+5688382,1938-06-09,False,False,2022-06-11,Eslovaquia
+4812126,1918-04-13,False,True,2022-10-09,Congo (la República Democrática del)
+1577784,1907-03-31,True,False,2022-09-28,Rumania
+1341670,1911-08-21,False,True,2022-03-13,"Marshall, (las) Islas"
+9680053,1928-01-03,False,True,2022-09-23,Granada
+7029476,1934-03-03,False,True,2022-11-10,Montenegro
+9560536,2021-02-13,False,True,2022-11-05,Pakistán
+5627210,1920-09-17,False,True,2022-11-05,Zimbabue
+8849499,1934-11-24,True,False,2022-07-21,Uruguay
+637734,1902-04-28,False,False,2022-12-22,Suiza
+6850399,2010-09-26,False,True,2022-10-09,Noruega
+7419201,2003-09-01,False,False,2022-12-27,Kirguistán
+8796673,1915-11-04,True,True,2022-05-16,Belice
+3064841,1985-01-15,False,True,2022-09-22,Omán
+6809046,1960-01-16,True,True,2022-05-22,Arabia Saudita
+1789246,2004-10-09,True,False,2022-11-10,Sri Lanka
+9319052,1998-07-22,True,False,2022-04-18,Egipto
+8683163,2016-06-12,True,True,2022-09-07,Austria
+5556839,1956-12-16,False,True,2022-10-28,Malawi
+9858952,1940-12-14,True,True,2022-11-05,"Norfolk, Isla"
+8693069,1970-03-23,False,True,2022-01-08,Guatemala
+8993941,1979-07-07,False,True,2022-01-30,Corea (la República de)
+3189661,1924-03-13,True,False,2022-12-13,Chad
+8685785,1940-03-12,False,True,2022-03-07,Kiribati
+1681607,1979-01-13,False,True,2022-10-19,Albania
+6650386,1918-09-19,True,False,2022-03-17,Brasil
+1506266,1987-06-14,True,False,2022-08-13,Paraguay
+5334206,1958-04-16,False,False,2022-10-20,"Bouvet, Isla"
+8604547,1964-05-07,False,True,2022-12-17,Argelia
+2103933,1935-09-27,True,True,2022-08-26,Argelia
+1215774,1949-01-01,True,True,2022-07-18,Palaos
+5542368,1918-09-17,False,True,2022-02-02,Etiopía
+8085377,1969-12-22,True,True,2022-07-22,Polinesia Francesa
+4396998,2014-04-12,True,False,2022-09-20,Alemania
+1280894,1934-11-14,False,True,2022-05-25,Islandia
+1069324,1971-07-08,False,True,2022-06-11,Israel
+7560811,1950-06-29,False,False,2022-12-21,Papúa Nueva Guinea
+176350,1981-10-20,False,True,2022-10-20,Bermudas
+5921552,1988-06-05,False,True,2022-06-24,Dominica
+609686,1951-05-23,False,False,2022-05-21,Sint Maarten (parte neerlandesa)
+9943490,1971-10-04,False,True,2022-06-13,Venezuela (República Bolivariana de)
+3628853,1933-07-15,True,False,2022-05-28,Heard (Isla) e Islas McDonald
+1810544,1941-12-10,True,False,2022-08-13,Mongolia
+7481241,1983-08-01,False,False,2022-03-24,"Marianas del Norte, (las) Islas"
+9253166,1929-03-21,False,True,2022-07-05,Trinidad y Tobago
+3004802,1941-06-26,True,False,2022-08-15,Bosnia y Herzegovina
+9620026,1924-03-14,True,True,2022-11-17,Zambia
+696186,1924-12-24,True,True,2022-09-09,Italia
+4476873,1970-04-09,True,False,2022-12-29,Canadá
+8426432,1908-05-09,True,True,2022-09-07,Uganda
+9723319,2014-08-13,True,False,2022-06-09,Tayikistán
+6711864,2005-10-22,False,True,2022-04-28,Dominica
+5208150,2006-04-24,False,True,2022-12-10,Tierras Australes Francesas (las)
+9699982,1970-03-13,True,True,2022-07-09,Corea (la República de)
+541716,2000-05-24,False,False,2022-06-11,Guayana Francesa
+9610330,1908-12-19,False,True,2022-03-11,Dinamarca
+5660743,2016-04-25,True,False,2022-06-12,Congo (el)
+9101897,1930-05-29,True,True,2022-01-26,Santa Lucía
+5750047,1902-02-05,False,False,2022-07-21,Pakistán
+3565467,2012-03-01,False,True,2022-04-12,Hungría
+1474431,1939-01-25,True,False,2022-12-18,"Tanzania, República Unida de"
+8700627,2016-01-02,False,False,2022-10-22,Ghana
+4090149,2009-04-22,True,True,2022-06-30,Kazajistán
+1651236,2005-09-11,False,True,2022-12-06,"Malvinas [Falkland], (las) Islas"
+5029260,1998-10-01,True,False,2022-02-04,Polonia
+282191,1970-10-23,False,False,2022-08-06,Islas Ultramarinas Menores de los Estados Unidos (las)
+1145953,1912-10-26,True,True,2022-09-19,Kiribati
+1411458,1983-08-31,False,True,2022-02-08,Samoa Americana
+468434,1935-12-24,False,False,2022-10-31,Túnez
+4992990,2018-01-21,False,False,2022-03-22,"Åland, Islas"
+9354615,1945-02-19,False,False,2022-09-10,"Bonaire, San Eustaquio y Saba"
+5795646,1918-07-24,True,True,2022-11-04,Hong Kong
+7233962,1998-10-13,True,True,2022-05-05,Nicaragua
+302834,1939-08-29,True,True,2022-01-12,San Pedro y Miquelón
+6557811,1915-07-29,True,False,2022-11-11,Guyana
+7645586,1984-09-08,False,True,2022-08-04,El Salvador
+1469209,1945-11-16,False,False,2022-05-25,Burundi
+3659096,1938-12-28,True,False,2022-08-28,Honduras
+1320456,1945-12-18,True,False,2022-11-02,Territorio Británico del Océano Índico (el)
+5845656,1949-07-02,True,False,2022-04-22,Etiopía
+5615088,2015-10-18,True,False,2022-11-08,Nepal
+5918634,1906-02-13,False,True,2022-05-22,Irak
+6513848,2011-02-16,False,True,2022-10-26,Macao
+5956920,2018-05-09,False,False,2022-08-02,Suecia
+1594422,1964-01-26,False,True,2022-12-23,Belarús
+524108,2019-03-09,True,True,2022-08-13,Fiyi
+2168489,2009-01-04,False,True,2022-02-17,Uzbekistán
+2242293,1912-12-31,False,True,2022-10-04,Filipinas (las)
+7569296,1985-07-30,True,True,2022-06-14,Macao
+6011672,1918-04-21,True,True,2022-11-18,Zambia
+2112765,1964-05-03,True,False,2022-07-29,Turkmenistán
+1617829,1963-04-03,False,True,2022-09-05,"Vírgenes británicas, Islas"
+1035490,1919-12-31,True,False,2022-10-18,Namibia
+4466877,1954-11-16,True,True,2022-07-20,Bulgaria
+9540971,1962-01-26,False,True,2022-04-11,Pakistán
+2659754,1936-06-03,False,True,2022-09-29,Francia
+530301,1901-02-21,True,True,2022-06-29,"Tanzania, República Unida de"
+5699619,2021-11-15,True,True,2022-06-01,Fiyi
+9399052,1945-02-28,False,False,2022-07-15,Territorio Británico del Océano Índico (el)
+8283573,2019-11-26,False,False,2022-05-14,Zimbabue
+1379349,1912-10-28,False,True,2022-06-04,Liechtenstein
+8441274,1965-08-12,False,True,2022-10-20,Zimbabue
+7304693,2018-09-03,True,True,2022-07-30,Micronesia (Estados Federados de)
+6041007,1968-08-07,True,False,2022-08-02,El Salvador
+300806,1946-08-21,False,True,2022-01-15,Mauritania
+7054388,1906-05-07,True,False,2022-08-12,Reino Unido de Gran Bretaña e Irlanda del Norte (el)
+5282682,1954-08-11,False,False,2022-05-20,Liechtenstein
+3220871,1900-02-14,True,True,2022-01-17,Corea (la República de)
+9088422,2020-06-10,True,True,2022-02-27,Yemen
+2784190,1924-12-22,False,True,2022-10-09,Sahara Occidental
+9638228,1947-06-06,False,True,2022-02-16,Fiyi
+3846340,1951-08-09,True,True,2022-03-06,Australia
+7103258,1910-01-29,False,False,2022-09-13,Guadeloupe
+2872735,2017-08-20,False,False,2022-07-19,Costa Rica
+7256771,1991-10-11,False,False,2022-05-01,Yemen
+8381122,1997-09-10,True,False,2022-12-30,Santa Lucía
+2342971,2008-05-02,True,False,2022-03-03,Guyana
+6364478,1938-03-05,False,True,2022-01-25,Tayikistán
+8403385,1969-02-03,False,False,2022-05-18,Croacia
+7987099,2020-12-13,False,False,2022-03-14,Taiwán (Provincia de China)
+9658899,1964-12-11,True,True,2022-01-14,Uruguay
+6468971,1966-06-13,True,False,2022-02-22,Grecia
+5120091,1951-02-09,True,True,2022-12-21,Wallis y Futuna
+9562555,1995-04-26,True,False,2022-05-27,Trinidad y Tobago
+4645103,1916-07-28,False,False,2022-10-25,Panamá
+4357839,1945-04-21,False,False,2022-06-02,Anguila
+2397639,1940-05-29,False,False,2022-05-26,Kazajistán
+6002533,1919-01-06,True,False,2022-01-02,Sierra leona
+2205193,1967-06-12,False,False,2022-05-28,Tonga
+4382658,1918-08-06,False,True,2022-12-23,"Santa Helena, Ascensión y Tristán de Acuña"
+5225839,1987-01-25,True,False,2022-05-06,Nueva Zelandia
+4175582,2010-04-25,True,True,2022-05-12,Dinamarca
+4954122,1969-05-31,True,False,2022-04-05,Mauricio
+2813277,2021-01-06,True,False,2022-06-28,Bosnia y Herzegovina
+2600168,1912-08-30,False,False,2022-04-08,Guinea Ecuatorial
+9745981,1978-09-20,True,True,2022-07-28,Tierras Australes Francesas (las)
+7641289,1957-10-28,True,True,2022-12-03,Mauricio
+982404,1995-05-15,False,True,2022-02-26,Vanuatu
+4385489,1968-06-26,False,True,2022-12-20,Bosnia y Herzegovina
+7038627,1955-12-03,False,False,2022-12-22,Ecuador
+6185800,1937-12-03,True,True,2022-09-07,Japón
+835237,1995-05-28,True,False,2022-01-14,Etiopía
+5834890,1997-08-11,False,False,2022-09-07,Papúa Nueva Guinea
+147179,1971-07-01,True,True,2022-03-11,Bolivia (Estado Plurinacional de)
+8504128,2017-01-15,True,True,2022-09-22,Dinamarca
+628261,2003-03-18,True,False,2022-05-22,"Cocos / Keeling, (las) Islas"
+3309794,1938-12-23,True,False,2022-09-19,Sri Lanka
+5142692,1994-12-04,False,False,2022-05-23,Territorio Británico del Océano Índico (el)
+3179455,1910-05-23,False,False,2022-02-22,Egipto
+7984160,1978-01-27,False,True,2022-07-04,Isla de Man
+6506846,2006-07-26,False,True,2022-05-21,"Lao, (la) República Democrática Popular"
+4735486,1953-03-02,True,False,2022-03-14,Gabón
+5305397,1934-12-08,False,True,2022-05-20,Palaos
+9413557,1978-09-18,False,False,2022-03-31,Angola
+6449964,1932-01-05,False,False,2022-04-03,Paraguay
+6973595,2007-02-23,False,False,2022-05-17,Guam
+4577184,2006-09-24,False,True,2022-07-08,Etiopía
+7475830,1993-02-16,False,True,2022-08-06,Tonga
+8707291,2002-02-25,False,False,2022-09-19,India
+943055,1955-07-31,False,False,2022-06-27,Dinamarca
+5612284,1963-12-11,True,True,2022-07-12,Italia
+4311053,2011-10-06,True,True,2022-03-07,Chipre
+3271179,2001-08-16,False,False,2022-10-16,Vanuatu
+5289998,1940-10-02,True,True,2022-11-13,Israel
+1590321,1935-10-05,True,True,2022-05-26,"Palestina, Estado de"
+6760915,2011-02-08,True,True,2022-07-11,Saint Martin (parte francesa)
+6125262,1917-08-19,True,True,2022-05-01,Alemania
+6117010,1995-10-07,True,True,2022-11-25,Suiza
+7165220,1925-02-13,False,True,2022-07-22,Cabo Verde
+4974037,1984-12-14,False,False,2022-09-03,Eslovenia
+6522914,1907-01-31,False,False,2022-10-18,Nepal
+6854786,1993-12-09,True,True,2022-09-10,Suazilandia
+4727980,1947-01-17,False,True,2022-10-15,Guinea Ecuatorial
+4310697,2017-08-23,True,True,2022-10-23,República Centroafricana (la)
+2843799,1973-03-24,False,True,2022-12-25,Chad
+7621768,2021-12-07,False,False,2022-04-05,Sierra leona
+9535276,1976-03-10,True,False,2022-02-06,Polonia
+6022201,1987-03-28,True,False,2022-01-11,Lituania
+3370643,1995-10-02,False,True,2022-09-16,Turkmenistán
+8529991,1938-10-23,False,False,2022-04-26,Egipto
+3071405,1956-03-30,False,True,2022-11-28,"Åland, Islas"
+1043816,1930-02-19,False,False,2022-11-25,Yemen
+6326185,1962-05-09,True,False,2022-04-19,Botsuana
+9529239,1901-04-18,False,True,2022-10-25,Trinidad y Tobago
+7620738,1943-03-25,False,True,2022-02-26,Timor-Leste
+9829095,2011-10-13,False,False,2022-09-30,Guernsey
+2225147,1989-01-30,False,False,2022-08-22,San Pedro y Miquelón
+3976964,2014-01-30,True,True,2022-10-29,Ecuador
+6300681,2003-12-04,True,True,2022-09-21,Guayana Francesa
+5108112,2015-05-16,True,True,2022-07-19,Suazilandia
+6241531,1966-11-02,False,True,2022-11-05,Tayikistán
+6896238,1947-05-02,True,False,2022-10-25,Nauru
+4262800,1910-11-19,False,True,2022-08-22,Irak
+3747287,1924-01-13,False,False,2022-05-12,Liechtenstein
+5477937,1983-08-09,True,True,2022-11-08,Mónaco
+9315523,1999-09-22,False,True,2022-06-16,Barbados
+7415611,2004-12-07,False,True,2022-03-31,Jersey
+5264321,2016-09-14,False,True,2022-09-14,"Rusia, (la) Federación de"
+2078141,1978-04-29,True,False,2022-05-08,Kenia
+2781622,1985-02-27,True,True,2022-01-21,Rumania
+9397463,1905-08-28,True,True,2022-08-31,"Dominicana, (la) República"
+4209635,1953-09-23,False,False,2022-04-19,Santo Tomé y Príncipe
+2957619,1985-04-29,True,False,2022-08-01,Guyana
+6784864,1959-06-14,False,True,2022-07-24,"Dominicana, (la) República"
+7541853,1930-03-07,True,False,2022-08-23,Bermudas
+4368893,1911-04-04,True,True,2022-02-23,Seychelles
+4642469,1917-07-29,False,False,2022-04-25,Mauricio
+7560741,2003-06-25,True,True,2022-09-09,Suriname
+1524938,1945-12-15,True,True,2022-01-17,Barbados
+2752981,1991-07-10,False,False,2022-05-17,Chipre
+8770702,1972-03-27,True,False,2022-08-12,El Salvador
+7645248,1988-12-03,True,True,2022-08-14,Suecia
+8225240,2019-01-23,False,True,2022-02-07,Nepal
+802734,1946-05-25,True,True,2022-09-25,"Vírgenes de los Estados Unidos, Islas"
+973140,2016-05-29,True,False,2022-08-18,Guinea Bissau
+5049524,1912-08-21,False,False,2022-01-09,Letonia
+3554945,1986-04-04,False,True,2022-10-12,Ghana
+6358352,1984-07-19,False,True,2022-03-22,San Cristóbal y Nieves
+2225455,1938-01-02,False,True,2022-11-03,Tokelau
+6898794,1979-03-24,False,False,2022-11-18,San Marino
+9718395,1976-12-12,False,False,2022-09-10,Santo Tomé y Príncipe
+1194347,1972-09-10,True,False,2022-01-19,Granada
+3176484,2016-12-21,False,False,2022-12-01,Benín
+2561874,1978-12-14,False,True,2022-02-13,China
+4857864,1905-08-02,True,False,2022-11-28,Comoras (las)
+6256069,1913-05-11,False,False,2022-01-31,Rumania
+4890407,1921-12-05,False,False,2022-03-08,Antigua y Barbuda
+3031171,1927-01-24,False,True,2022-07-02,Congo (la República Democrática del)
+9720819,1944-07-05,False,True,2022-07-13,Argentina
+9036544,1968-05-04,False,False,2022-12-08,Polinesia Francesa
+7310682,1995-11-15,True,True,2022-10-24,Luxemburgo
+7878803,1909-05-07,False,False,2022-01-31,Cuba
+878020,1967-06-11,True,False,2022-12-11,Territorio Británico del Océano Índico (el)
+4055543,2012-09-06,False,False,2022-07-16,Corea (la República de)
+9660365,1961-09-21,True,False,2022-04-07,El Salvador
+9709078,1984-09-04,False,False,2022-04-11,Tayikistán
+8010619,2000-10-25,False,True,2022-03-23,Ecuador
+6559345,1905-12-02,True,True,2022-01-21,Tierras Australes Francesas (las)
+1610363,1965-04-03,True,True,2022-05-20,Polinesia Francesa
+2666422,2009-04-07,False,True,2022-02-11,Lesoto
+907995,1972-03-03,True,False,2022-05-27,Nueva Zelandia
+1927412,1945-02-12,False,False,2022-08-03,Sahara Occidental
+1635053,1990-09-15,True,False,2022-12-10,Filipinas (las)
+2459087,1996-05-18,True,False,2022-10-12,Samoa
+2175299,1902-11-11,True,True,2022-02-20,Angola
+2081358,1932-03-07,False,False,2022-04-10,"Åland, Islas"
+7905168,1994-11-14,False,True,2022-01-15,Turquía
+6214015,1905-07-27,True,False,2022-05-08,Reino Unido de Gran Bretaña e Irlanda del Norte (el)
+1766988,1971-03-13,True,True,2022-05-08,Eslovaquia
+9434426,2011-04-17,True,True,2022-04-03,Antártida
+352765,1995-09-11,True,False,2022-09-17,"Åland, Islas"
+1363786,1967-11-10,False,True,2022-11-05,Paraguay
+3456209,1972-06-22,False,True,2022-12-08,Mayotte
+2262791,1958-01-04,True,True,2022-06-18,Ucrania
+5261407,1901-12-12,False,True,2022-05-08,Costa Rica
+6353725,1972-12-20,False,True,2022-05-24,Arabia Saudita
+4301349,1913-12-17,False,True,2022-08-01,Andorra
+7110042,1993-04-27,False,False,2022-08-29,Indonesia
+4942407,2012-01-19,False,False,2022-12-20,Turkmenistán
+6033821,2007-03-05,True,True,2022-11-13,Italia
+7534698,2010-08-21,False,False,2022-01-21,India
+3865461,1933-06-08,False,False,2022-10-18,Suecia
+1070582,1978-02-28,False,True,2022-10-19,China
+5262536,1978-02-20,True,True,2022-05-10,Noruega
+805560,1985-08-16,False,False,2022-12-02,Austria
+3440551,1902-08-03,False,True,2022-09-23,Ecuador
+5044775,1903-06-06,False,False,2022-09-13,Cuba
+6737904,1926-06-08,False,True,2022-06-17,Croacia
+8867880,1937-12-29,True,False,2022-02-08,Moldavia (la República de)
+6290468,1964-01-31,True,True,2022-11-27,Grecia
+8819867,1950-12-31,False,True,2022-05-18,Bahamas (las)
+8285157,1918-11-13,False,False,2022-10-13,Haití
+5118801,2020-06-09,True,False,2022-02-22,Serbia
+4307915,1916-08-05,True,False,2022-04-03,España
+2789940,1947-02-13,True,True,2022-06-20,Bhután
+3105197,1952-10-04,True,False,2022-10-08,Kirguistán
+5323608,1930-08-30,False,True,2022-05-27,Côte d'Ivoire
+349928,1950-11-02,True,True,2022-04-11,"Marianas del Norte, (las) Islas"
+662041,1968-03-03,False,True,2022-01-07,Bélgica
+5752142,1991-07-08,False,False,2022-06-21,Pitcairn
+8608819,2007-02-07,False,True,2022-06-06,"Cook, (las) Islas"
+5512718,1916-04-15,True,True,2022-03-30,Cuba
+6056545,1925-12-01,False,True,2022-01-03,Kazajistán
+7628104,1931-10-20,True,False,2022-10-19,Turquía
+2063746,1978-06-30,True,False,2022-01-09,Suriname
+7337288,1989-07-11,False,True,2022-03-20,Trinidad y Tobago
+1359283,1993-04-21,False,True,2022-10-12,Armenia
+4946212,1905-12-07,False,True,2022-07-20,Reino Unido de Gran Bretaña e Irlanda del Norte (el)
+7003431,1970-08-15,False,False,2022-12-23,Estonia
+8715139,1997-03-08,False,False,2022-01-25,Aruba
+1773920,1948-08-09,True,True,2022-12-01,Tailandia
+5430555,1932-06-18,False,True,2022-04-12,Chequia
+2288424,2020-12-05,True,False,2022-09-05,Santa Lucía
+6598793,1932-11-29,True,True,2022-11-26,México
+4502641,1936-08-15,False,True,2022-08-20,Chequia
+8084579,1931-08-24,True,False,2022-05-11,Gambia (la)
+719007,1977-12-05,False,True,2022-09-12,Islas Ultramarinas Menores de los Estados Unidos (las)
+6318221,1901-02-21,False,True,2022-04-28,"Åland, Islas"
+112403,1963-11-13,True,True,2022-08-11,Sint Maarten (parte neerlandesa)
+6819426,2002-06-17,False,True,2022-11-13,Maldivas
+459752,1909-11-24,False,True,2022-11-15,Francia
+3723763,1981-12-02,True,False,2022-01-08,República Árabe Siria
+8887505,1954-11-11,True,False,2022-08-05,"Feroe, (las) Islas"
+9465050,2015-11-05,False,False,2022-09-20,Yibuti
+9319502,1995-08-14,False,True,2022-02-07,"Navidad, Isla de"
+1065126,2007-02-01,True,False,2022-12-17,Eritrea
+9773893,2015-12-04,True,False,2022-11-27,Congo (la República Democrática del)
+1060708,1973-01-19,False,True,2022-05-08,"Lao, (la) República Democrática Popular"
+8708881,1920-07-27,False,False,2022-04-26,Niue
+6247004,1940-09-29,False,True,2022-08-19,Pitcairn
+6105753,1948-06-13,False,True,2022-11-25,"Santa Helena, Ascensión y Tristán de Acuña"
+8210153,1974-04-11,False,False,2022-03-16,Singapur
+685620,1924-06-01,True,False,2022-07-06,"Caimán, (las) Islas"
+1004709,2012-12-16,False,True,2022-04-08,Botsuana
+4090,2007-07-19,True,False,2022-02-13,Letonia
+324558,2009-12-24,False,False,2022-08-13,Japón
+9000942,1975-09-18,True,False,2022-07-19,Burkina Faso
+3693141,2008-11-30,False,False,2022-09-27,México
+9887883,1981-02-02,False,False,2022-01-06,India
+2019555,1950-01-22,False,True,2022-03-21,Macao
+6457311,1924-05-29,False,True,2022-06-12,Bahamas (las)
+4662205,2006-03-08,False,True,2022-01-15,Namibia
+8494239,1904-12-11,True,True,2022-08-07,Perú
+9317473,2012-12-06,True,False,2022-01-09,Togo
+3892373,1998-04-07,True,True,2022-06-24,Moldavia (la República de)
+4279565,1972-12-06,True,True,2022-05-12,Brunéi Darussalam
+5002137,1960-10-30,False,True,2022-06-14,Palaos
+1059496,1983-01-23,True,False,2022-01-25,Palaos
+1269541,1946-07-06,False,True,2022-02-05,Nauru
+4884337,1929-09-24,True,False,2022-11-06,Suecia
+5585219,1945-06-14,True,False,2022-01-29,Samoa
+5736288,1931-05-26,False,True,2022-06-28,Túnez
+7115913,1954-07-15,False,False,2022-12-23,Bahamas (las)
+7972012,1986-08-07,True,False,2022-06-15,"Marianas del Norte, (las) Islas"
+628334,1911-01-10,True,True,2022-05-12,Liberia
+7655859,1952-09-19,False,True,2022-01-23,Guadeloupe
+6992869,1952-05-26,True,True,2022-12-08,Costa Rica
+9067904,1937-05-29,True,False,2022-09-29,Venezuela (República Bolivariana de)
+5463937,1968-12-05,True,False,2022-11-07,Nueva Zelandia
+3552582,1958-05-16,False,True,2022-03-07,Líbano
+3490972,1992-02-15,False,True,2022-08-19,Hungría
+3352907,2015-05-07,False,False,2022-05-13,Angola
+4571864,2011-05-10,True,True,2022-04-26,Filipinas (las)
+205546,1950-02-25,True,False,2022-04-18,Níger (el)
+6901473,1944-04-21,True,True,2022-06-23,Panamá
+8902080,1963-05-13,False,False,2022-04-19,Camerún
+512935,1950-03-16,False,False,2022-02-21,"Caimán, (las) Islas"
