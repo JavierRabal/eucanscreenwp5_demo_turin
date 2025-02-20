@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: javierrabal/eucanscreenwp5
+          images: javierrabal/eucanscreenwp5_demo_aspire
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
@@ -37,6 +37,6 @@ jobs:
           file: ./Dockerfile  
           push: true
           tags: |
-            javierrabal/eucanscreenwp5:${{ steps.meta.outputs.version }}
-            javierrabal/eucanscreenwp5:latest
+            javierrabal/eucanscreenwp5_demo_aspire:${{ steps.meta.outputs.version }}
+            javierrabal/eucanscreenwp5_demo_aspire:latest
           labels: ${{ steps.meta.outputs.labels }}
