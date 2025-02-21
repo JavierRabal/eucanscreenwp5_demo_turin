@@ -1,0 +1,43 @@
+code_alpha2,code_alpha3,code,country_name
+AL,ALB,8,Albania
+DE,DEU,276,Germany
+AD,AND,20,Andorra
+AT,AUT,40,Austria
+BE,BEL,56,Belgium
+BA,BIH,70,Bosnia and Herzegovina
+BG,BGR,100,Bulgaria
+CY,CYP,196,Cyprus
+HR,HRV,191,Croatia
+DK,DNK,208,Denmark
+SK,SVK,703,Slovakia
+SI,SVN,705,Slovenia
+ES,ESP,724,Spain
+EE,EST,233,Estonia
+FI,FIN,246,Finland
+FR,FRA,250,France
+GR,GRC,300,Greece
+HU,HUN,348,Hungary
+IE,IRL,372,Ireland
+IS,ISL,352,Iceland
+IT,ITA,380,Italy
+LV,LVA,428,Latvia
+LI,LIE,438,Liechtenstein
+LT,LTU,440,Lituania
+LU,LUX,442,Luxembourg
+MK,MKD,807,North Macedonia
+MT,MLT,470,Malta
+MD,MDA,498,Moldova (the Republic of)
+MC,MCO,492,Monaco
+ME,MNE,499,Montenegro
+NO,NOR,578,Norway
+NL,NLD,528,Netherlands
+PL,POL,616,Poland
+PT,PRT,620,Portugal
+GB,GBR,826,UK
+CZ,CZE,203,Czechia
+RO,ROU,642,Romania
+RU,RUS,643,Rusia
+RS,SRB,688,Serbia
+SE,SWE,752,Sweden
+CH,CHE,756,Switzerland
+UA,UKR,804,Ukraine

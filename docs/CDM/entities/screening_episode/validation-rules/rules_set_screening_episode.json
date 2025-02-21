@@ -7,12 +7,12 @@
             "description": "Rule for column pid"
         },
         {
-            "expression": "bi_date BETWEEN ''1900-01-01'' AND ''2022-12-31''",
+            "expression": "bi_date BETWEEN ''1959-01-01'' AND ''1999-12-31''",
             "name": "bi_date",
             "description": "Rule for column bi_date"
         },
         {
-            "expression": "primary_attended_date BETWEEN ''2022-01-01'' AND ''2022-12-31''",
+            "expression": "primary_attended_date BETWEEN ''2014-01-01'' AND ''2024-12-31''",
             "name": "primary_attended_date",
             "description": "Rule for column primary_attended_date"
         }

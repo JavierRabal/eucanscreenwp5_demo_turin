@@ -1,9 +1,9 @@
 {
-    "created_dt": "20250131110019_cdmb",
+    "created_dt": "20250221083605_cdmb",
     "cdmb_version": "1.3.7",
-    "uuid": "51db86e7-fd46-4b88-aa47-7845daf2556f",
+    "uuid": "2261c42d-f7e9-4f39-abd0-ad1d214480e0",
     "metadata": {
-        "uuid": "6d8be7a1-8913-4c71-8b2d-18c2ad817078",
+        "uuid": "b64511fc-121f-4b13-a865-73b783c2fa7c",
         "project": "eucc_cdm",
         "funder": "",
         "url_project": "",
@@ -23,14 +23,14 @@
         "description": "Population: Cervical cancer screening target population",
         "inclusion_criteria": "Women aged 25 to 69",
         "exclusion_criteria": "",
-        "beggining_study_period": "2022-01-01",
-        "end_study_period": "2022-12-31",
+        "beggining_study_period": "2014-01-01",
+        "end_study_period": "2024-12-31",
         "cohort_definition_inclusion": null,
         "cohort_definition_exclusion": null
     },
     "entities": [
         {
-            "uuid": "54aacdab-12f6-4d78-b45d-0ab451a7ee16",
+            "uuid": "5794ef4a-de25-4c4e-9ffe-7be298592eb1",
             "name": "screening_episode",
             "time_varying": false,
             "variables": [
@@ -130,7 +130,7 @@
                     "examples": "",
                     "catalog": {
                         "column_name": "country_name",
-                        "filename": "country_iso 3166-1.csv"
+                        "filename": "country_iso_3166-1.csv"
                     }
                 }
             ],
@@ -141,12 +141,12 @@
                     "description": "Rule for column pid"
                 },
                 {
-                    "expression": "bi_date BETWEEN '1900-01-01' AND '2022-12-31'",
+                    "expression": "bi_date BETWEEN ''1959-01-01'' AND ''1999-12-31''",
                     "name": "bi_date",
                     "description": "Rule for column bi_date"
                 },
                 {
-                    "expression": "primary_attended_date BETWEEN '2022-01-01' AND '2022-12-31'",
+                    "expression": "primary_attended_date BETWEEN ''2014-01-01'' AND ''2024-12-31''",
                     "name": "primary_attended_date",
                     "description": "Rule for column primary_attended_date"
                 }

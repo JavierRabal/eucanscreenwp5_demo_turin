@@ -5,7 +5,7 @@
             "@id": "./",
             "@type": "Dataset",
             "creator": "Common Data Model Builder",
-            "datePublished": "2025-01-31T11:00:19+00:00",
+            "datePublished": "2025-02-21T08:36:05+00:00",
             "description": "A test version of a cancer screening CDM with a few basic variables",
             "hasPart": [
                 {
@@ -57,7 +57,7 @@
                     "@id": "docs/CDM/synthetic-data/synthetic_screening_episode.csv"
                 },
                 {
-                    "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso 3166-1.csv"
+                    "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso_3166-1.csv"
                 },
                 {
                     "@id": "docs/CDM/entities/screening_episode/validation-rules/rules_set_screening_episode.json"
@@ -208,7 +208,7 @@
             "name": "Synthetic data for entity: screening_episode"
         },
         {
-            "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso 3166-1.csv",
+            "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso_3166-1.csv",
             "@type": "File",
             "author": [],
             "encodingFormat": "text/csv",
