@@ -1,0 +1,9 @@
+id,assessment_complications_category
+0,none
+1,perforation
+2,bleeding
+3,infection
+4,abdominal pain
+5,anxiety
+6,adverse effects on reproductive health after CIN treatments
+99,unknown

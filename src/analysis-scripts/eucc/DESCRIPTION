@@ -1,0 +1,15 @@
+Package: eucc
+Title: Tools for Producing Peformance Indicators for Cancer Screening
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Maiju", "Pankakoski", email = "maiju.pankakoski@cancer.fi", role = "cre"),
+    person("Aapeli", "Nevala", email = "aapeli.nevala@cancer.fi", role = "aut"))
+Description: This is an open source software for producing key quality and peformance 
+    indicators for cancer screening in Europe, initiated by the EUCanScreen Joint Action project. 
+    Performance indicators are mostly based on earlier work in the CanScreen-ECIS project, 
+    and rely on a standardized data model (CDM) for cancer screening.
+License: MIT + file LICENSE
+Imports: data.table, restatapi
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

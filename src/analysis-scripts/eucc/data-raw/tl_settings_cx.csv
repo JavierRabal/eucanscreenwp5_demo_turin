@@ -1,0 +1,5 @@
+dt_nm,tab_nm,col_nm_set,fun_nm,arg_list,object_type
+cdm_cx,attendance_by_year,screening_year,indicator_participation_rate,NULL,table
+cdm_cx,attendance_by_year_migr,"screening_year,migration_status",indicator_participation_rate,NULL,table
+cdm_cx,result_by_year,screening_year,indicator_test_result,NULL,table
+cdm_cx,result_by_method_latest_year,primary_test_method,indicator_test_result,list(subset = substitute(screening_year == 2023L)),table

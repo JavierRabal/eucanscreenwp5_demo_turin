@@ -5,8 +5,8 @@
             "@id": "./",
             "@type": "Dataset",
             "creator": "Common Data Model Builder",
-            "datePublished": "2025-02-21T08:36:05+00:00",
-            "description": "A test version of a cancer screening CDM with a few basic variables",
+            "datePublished": "2025-05-05T12:04:06+00:00",
+            "description": "This is a common data model for cervical cancer screening data to produce key quality performance indicators.",
             "hasPart": [
                 {
                     "@id": "README.md"
@@ -48,24 +48,126 @@
                     "@id": "docs/CDM/common_datamodel.xlsx"
                 },
                 {
-                    "@id": "docs/CDM/ER.gv.png"
+                    "@id": "docs/CDM/synthetic-data/synthetic_person.csv"
                 },
                 {
-                    "@id": "docs/CDM/ER.gv"
+                    "@id": "docs/CDM/entities/person/catalogs/person_id_type.csv"
                 },
                 {
-                    "@id": "docs/CDM/synthetic-data/synthetic_screening_episode.csv"
+                    "@id": "docs/CDM/entities/person/catalogs/country.csv"
                 },
                 {
-                    "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso_3166-1.csv"
+                    "@id": "docs/CDM/entities/person/catalogs/sex.csv"
                 },
                 {
-                    "@id": "docs/CDM/entities/screening_episode/validation-rules/rules_set_screening_episode.json"
+                    "@id": "docs/CDM/entities/person/validation-rules/rules_set_person.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_screening_round.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/screening_previous_attendance.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/primary_invitation_type.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/education.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/income.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/migration_status.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/employment_status.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/country.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/geo_area.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/catalogs/preliminary_risk_score_class.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/screening_round/validation-rules/rules_set_screening_round.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_primary_phase.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/catalogs/primary_invited.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/catalogs/primary_screening_reason.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_method.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_result_factor.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_complications.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/primary_phase/validation-rules/rules_set_primary_phase.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_triage_phase.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_method.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_result_factor.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_complications.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/triage_phase/validation-rules/rules_set_triage_phase.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_assessment_phase.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_method.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_diagnosis.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_complications.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_phase_stage_type.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/assessment_phase/validation-rules/rules_set_assessment_phase.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_treatment_phase.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/treatment_phase/catalogs/treatment_type.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/treatment_phase/validation-rules/rules_set_treatment_phase.json"
+                },
+                {
+                    "@id": "docs/CDM/synthetic-data/synthetic_interval_phase.csv"
+                },
+                {
+                    "@id": "docs/CDM/entities/interval_phase/validation-rules/rules_set_interval_phase.json"
                 }
             ],
             "keywords": "",
             "license": "CC BY 4.0 https://creativecommons.org/licenses/by/4.0/",
-            "name": "eucc_cdm"
+            "name": "cervix_cdm"
         },
         {
             "@id": "ro-crate-metadata.json",
@@ -187,39 +289,277 @@
             "name": "Common Data Model spreadsheet"
         },
         {
-            "@id": "docs/CDM/ER.gv.png",
-            "@type": "File",
-            "author": [],
-            "encodingFormat": "image/png",
-            "name": "Entity Relationship Diagram PNG"
-        },
-        {
-            "@id": "docs/CDM/ER.gv",
-            "@type": "File",
-            "author": [],
-            "encodingFormat": "text/plain",
-            "name": "Entity Relationship Diagram GV"
-        },
-        {
-            "@id": "docs/CDM/synthetic-data/synthetic_screening_episode.csv",
+            "@id": "docs/CDM/synthetic-data/synthetic_person.csv",
             "@type": "File",
             "author": [],
             "encodingFormat": "text/csv",
-            "name": "Synthetic data for entity: screening_episode"
+            "name": "Synthetic data for entity: person"
         },
         {
-            "@id": "docs/CDM/entities/screening_episode/catalogs/country_iso_3166-1.csv",
+            "@id": "docs/CDM/entities/person/catalogs/person_id_type.csv",
             "@type": "File",
             "author": [],
             "encodingFormat": "text/csv",
-            "name": "Catalog file for screening_episode-country"
+            "name": "Catalog file for person-person_id_type"
         },
         {
-            "@id": "docs/CDM/entities/screening_episode/validation-rules/rules_set_screening_episode.json",
+            "@id": "docs/CDM/entities/person/catalogs/country.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for person-bi_country_parents"
+        },
+        {
+            "@id": "docs/CDM/entities/person/catalogs/sex.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for person-sex"
+        },
+        {
+            "@id": "docs/CDM/entities/person/validation-rules/rules_set_person.json",
             "@type": "File",
             "author": [],
             "encodingFormat": "application/json",
-            "name": "Rule set for entity: screening_episode"
+            "name": "Rule set for entity: person"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_screening_round.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: screening_round"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/screening_previous_attendance.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-screening_previous_attendance"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/primary_invitation_type.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-primary_invitation_type"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/education.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-education"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/income.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-income"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/migration_status.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-migration_status"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/employment_status.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-employment_status"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/country.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-citizenship"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/geo_area.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-geo_area"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/catalogs/preliminary_risk_score_class.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for screening_round-preliminary_risk_score_class"
+        },
+        {
+            "@id": "docs/CDM/entities/screening_round/validation-rules/rules_set_screening_round.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: screening_round"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_primary_phase.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: primary_phase"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/catalogs/primary_invited.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for primary_phase-primary_test_attended"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/catalogs/primary_screening_reason.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for primary_phase-primary_screening_reason"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_method.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for primary_phase-primary_test_method"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_result_factor.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for primary_phase-primary_test_result_factor"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/catalogs/primary_test_complications.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for primary_phase-primary_test_complications"
+        },
+        {
+            "@id": "docs/CDM/entities/primary_phase/validation-rules/rules_set_primary_phase.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: primary_phase"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_triage_phase.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: triage_phase"
+        },
+        {
+            "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_method.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for triage_phase-triage_test_method"
+        },
+        {
+            "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_result_factor.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for triage_phase-triage_test_result_factor"
+        },
+        {
+            "@id": "docs/CDM/entities/triage_phase/catalogs/primary_test_complications.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for triage_phase-triage_test_complications"
+        },
+        {
+            "@id": "docs/CDM/entities/triage_phase/validation-rules/rules_set_triage_phase.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: triage_phase"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_assessment_phase.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: assessment_phase"
+        },
+        {
+            "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_method.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for assessment_phase-assessment_method"
+        },
+        {
+            "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_diagnosis.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for assessment_phase-assessment_diagnosis"
+        },
+        {
+            "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_complications.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for assessment_phase-assessment_complications"
+        },
+        {
+            "@id": "docs/CDM/entities/assessment_phase/catalogs/assessment_phase_stage_type.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for assessment_phase-assessment_phase_stage_type"
+        },
+        {
+            "@id": "docs/CDM/entities/assessment_phase/validation-rules/rules_set_assessment_phase.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: assessment_phase"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_treatment_phase.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: treatment_phase"
+        },
+        {
+            "@id": "docs/CDM/entities/treatment_phase/catalogs/treatment_type.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Catalog file for treatment_phase-treatment_type"
+        },
+        {
+            "@id": "docs/CDM/entities/treatment_phase/validation-rules/rules_set_treatment_phase.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: treatment_phase"
+        },
+        {
+            "@id": "docs/CDM/synthetic-data/synthetic_interval_phase.csv",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "text/csv",
+            "name": "Synthetic data for entity: interval_phase"
+        },
+        {
+            "@id": "docs/CDM/entities/interval_phase/validation-rules/rules_set_interval_phase.json",
+            "@type": "File",
+            "author": [],
+            "encodingFormat": "application/json",
+            "name": "Rule set for entity: interval_phase"
         }
     ]
 }

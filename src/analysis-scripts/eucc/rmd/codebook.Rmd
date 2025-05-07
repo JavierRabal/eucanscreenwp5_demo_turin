@@ -1,0 +1,113 @@
+---
+title: "Code book, EUCanScreen data model"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: true
+     number_sections: true
+params: 
+  site: "colon"
+---
+
+```{r setup, echo = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+htmltools::img(
+  src = knitr::image_uri("../data-raw/logo.jpg"), 
+  alt = 'logo', 
+  style = 'position:absolute; top:0px; right:-270px; padding:0px; width: 300; height: 240px')
+```
+
+## Background
+
+This is the codebook for individual-level `r params[["site"]]` screening data collection in EUCanScreen JA.
+
+The basis of EUCanScreen data model is built from five different tables for different phases of cancer screening, plus two additional tables for collecting data on characteristics of an individual or characteristics of the recorded screening round.
+
+Data on the actual cancer screening observations are collected into tables “x_primary”, “x_triage”, “x_assessment”, “x_treatment” and “x_interval”, where x denotes the screening programme. All of these tables contain foreign key “round_id”, that links the phase into the screening round table: “screening_round”, which contains foreign key “person_id” linking the round to a specific person and their characteristics. The data definitions for all of the tables are described in this document.
+
+While the model is planned to allow linkage between different phases and the screening round. Yet, if the data on a screening round cannot be collected as a chain consisting of all these five phases, the phases can be reported without linkage. For example, if a data provider can provide data only on primary phase, and another data provider provides data on further assessment phase, these can be provided separately. Yet, it is strongly advised to link the phases to a certain screening round and person, if in any way possible (for example, using dates). Instructions for this are provided in the more exact table descriptions.
+NOTE: This is a draft document, and both the documentation and the model can be improved during the JA. Please send all your feedback to aapeli.nevala@cancer.fi or maiju.pankakoski@cancer.fi
+
+
+
+```{r entity_diagram, fig.width=9, fig.height=9}
+
+path <- paste0("../data-raw/", params[["site"]], "_cdm.xlsx")
+
+cdm_tabs <- readxl::excel_sheets(path)
+
+# function to generate markdown documentation
+convert_markdown_to_dm <- function(x) {
+  ddd <- readxl::read_xlsx(path = path, sheet = x)
+  
+  jj <- data.frame(lapply(ddd[["var_name"]], function(x) list(x = 1)))
+  names(jj) <- ddd[["var_name"]]
+  return(jj)
+}
+
+dm_list <- lapply(cdm_tabs, convert_markdown_to_dm)
+
+## names of tables -- order by screening phase for the graph
+idx <- grep(params[["site"]], cdm_tabs)
+tab_nms <- c(cdm_tabs[1:2], paste0(letters[1:length(idx)], "_", cdm_tabs[idx]))
+names(dm_list) <- tab_nms
+## names of primary keys
+pk_nms <- paste0(gsub(".*_","", cdm_tabs), "_id")
+
+## define data model
+cdm <- dm::as_dm(dm_list)
+
+## primary keys
+for(i in 1:length(cdm_tabs)) {
+  cdm <- eval(parse(text = paste(
+    c("dm::dm_add_pk(cdm", tab_nms[i], paste0(pk_nms[i], ")")), 
+    collapse = ",")
+  ))
+}
+
+## foreign keys
+cdm <- dm::dm_add_fk(cdm, screening_round, person_id, person)
+
+for (i in idx) {
+  cdm <- eval(parse(text = paste0(
+    "dm::dm_add_fk(cdm, ", tab_nms[i], ", round_id, screening_round)"
+  )))
+}
+
+dm::dm_draw(cdm, view_type = "all")
+
+```
+
+
+```{r, results = "asis"}
+
+
+# Function to generate markdown documentation
+generate_markdown <- function(x) {
+  ddd <- readxl::read_xlsx(path, sheet = x)
+  markdown <- paste0("\n\n", "## Table: ", x, "\n\n")
+  
+  for (i in 1:nrow(ddd)) {
+    row <- ddd[i, ]
+    markdown <- paste0(markdown, "### Variable: ", row$var_name, "\n")
+    for (col in colnames(ddd)[1:9]) {
+      if (!is.na(row[[col]]) && col != "var_name") {
+        markdown <- paste0(markdown, "- **", col, "**: ", row[[col]], "\n")
+      }
+    }
+    markdown <- paste0(markdown, "\n\n")
+  }
+  
+  return(markdown)
+}
+
+# Generate markdown documentation
+
+markdown <- lapply(cdm_tabs, function(x) generate_markdown(x))
+markdown <- paste(markdown)
+cat(markdown)
+```

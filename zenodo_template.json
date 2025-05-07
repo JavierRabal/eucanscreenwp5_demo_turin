@@ -1,6 +1,6 @@
 {
-    "title": "eucc_cdm",
-    "description": "A test version of a cancer screening CDM with a few basic variables",
+    "title": "cervix_cdm",
+    "description": "This is a common data model for cervical cancer screening data to produce key quality performance indicators.",
     "creators": [],
     "keywords": []
 }

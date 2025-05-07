@@ -23,6 +23,7 @@ COPY --chown=$MAMBA_USER:$MAMBA_USER env.yaml /tmp/env.yaml
 # Installing dependencies
 RUN micromamba install -y -n aspire -f /tmp/env.yaml \
     && micromamba run -n aspire Rscript -e "remotes::install_github('FinnishCancerRegistry/popEpi')" \
+    && micromamba run -n aspire R -e "install.packages('restatapi', repos = 'https://cloud.r-project.org')" \
     && micromamba clean --all --yes \
     && rm -rf /opt/conda/conda-meta /tmp/env_project.yaml
 

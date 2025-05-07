@@ -1,0 +1,44 @@
+---
+title: "EUCC Tables"
+format: 
+  html:
+    self-contained: true
+    grid:
+      body-width: 1250px
+      margin-width: 400px
+      gutter-width: 1.5rem
+code-fold: false
+echo: false
+message: false
+warning: false
+error: false
+always_allow_html: yes
+
+---
+
+```{r,results='asis',message=FALSE}
+
+library(duckdb)
+library(Hmisc)
+library(kableExtra)
+library(logger)
+
+source("/home/mambauser/projects/src/analysis-scripts/make_tablist.R")
+
+
+cat("::: {.panel-tabset} \n")
+for (i in 1:length(tl)){
+  
+  cat("\n")
+  cat("##", names(tl)[i], "\n")
+  cat("### Table:", names(tl)[i], "\n")
+  
+  cat(
+    tl[[i]] %>%
+      kbl(., "html", escape = FALSE) %>%  kable_styling(bootstrap_options = c("striped", "hover", "responsive"), full_width = FALSE) %>% scroll_box(width = "100%")
+  )
+  cat("\n \n")
+}
+cat(":::")
+
+```

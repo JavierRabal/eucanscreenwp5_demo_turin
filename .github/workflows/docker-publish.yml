@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: iacsbiocomputing/eucanscreen_demo_aspire
+          images: jjrabal/eucanscreenwp5_demo_turin
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
@@ -37,6 +37,6 @@ jobs:
           file: ./Dockerfile  
           push: true
           tags: |
-            iacsbiocomputing/eucanscreen_demo_aspire:${{ steps.meta.outputs.version }}
-            iacsbiocomputing/eucanscreen_demo_aspire:latest
+            jjrabal/eucanscreenwp5_demo_turin:${{ steps.meta.outputs.version }}
+            jjrabal/eucanscreenwp5_demo_turin:latest
           labels: ${{ steps.meta.outputs.labels }}
